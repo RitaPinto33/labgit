@@ -14,4 +14,6 @@ class MainActivity : AppCompatActivity() {
     //jjj
 
     //yy
+    
+    //web para app
 }
